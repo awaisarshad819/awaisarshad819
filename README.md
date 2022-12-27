@@ -78,5 +78,29 @@ system design procedures to meet updated quality and security standards.</p>
 projection models, and other methods as necessary to understand current operations and determine areas for
 improvements related to WordPress and WooCommerce development and customization.</p>
 	
+<p><b>Freelancer at Upwork </b> </p> 
+<p>✔Upwork  (April 2019 - Present) <br> As a freelancer on Upwork, providing solutions to international clients all over the world on issues related to dynamic
+websites using technologies such as PHP, Laravel, WordPress, and WooCommerce. I have experience in customizing
+and developing websites using these platforms, as well as integrating different APIs to extend their functionality.</p>
+	
+<p><b>Freelancer at Fiverr </b> </p> 
+<p>✔Fiverr  (April 2019 - Present) <br> As a freelancer on Fiverr, providing solutions to international clients all over the world on issues related to dynamic
+websites using technologies such as PHP, Laravel, WordPress, and WooCommerce. I have experience in customizing
+and developing websites using these platforms, as well as integrating different APIs to extend their functionality.
+</p>
+
+<p><b>Web Developer Internship</b> </p> 
+<p>✔KICS (UET)  (April 2019 - August 2019 (4 moths)) <br> I did an internship in web development at KICS (UET). During my internship, I gained practical experience in web
+programming and development and learned how to implement solutions to real-world problems.</p>
+	
+	
+# LANGUAGE
+<b>📌URDU <br>
+<b>📌ENGLISH <br>
+	
+	
+	
+
+	
 	
 
