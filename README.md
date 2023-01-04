@@ -8,9 +8,11 @@
 ## My Programming Youtube channel
 - [Programming Giant](https://www.youtube.com/channel/UC-zHdDs9dyxZaYW9jZs8aJw)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisarshad819&label=Profile%20views&color=0e75b6&style=flat" alt="awaisarshad819" > </p>
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awaisarshad819&label=Profile%20views&color=0e75b6&style=flat" alt="awaisarshad819" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awaisarshad819" alt="awaisarshad819" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mawais136" target="blank"><img src="https://img.shields.io/twitter/follow/mawais136?logo=twitter&style=for-the-badge" alt="mawais136" /></a> </p>
 
